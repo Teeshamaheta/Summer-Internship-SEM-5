@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login Form</title>
+  <link rel="stylesheet" href="text.css" />
+</head>
+<body>
+  <div class="login-box">
+    <h2>Login</h2>
+    <form>
+      <label for="username">Username:</label><br>
+      <input type="text" id="username" name="username" required><br><br>
+
+      <label for="email">Email:</label><br>
+      <input type="text" id="email" name="email" required><br><br>
+
+      <label for="phone no.">phone no. :</label><br>
+      <input type="text" id="phone no." name="phone no." required><br><br>
+
+      <label for="password">Password:</label><br>
+      <input type="password" id="password" name="password" required><br><br>
+
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</body>
+</html>
+
+<----- CSS ----->
+.login-box {
+  width: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+  font-family: Arial, sans-serif;
+}
+
+.login-box h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.login-box button {
+  width: 100%;
+  padding: 10px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-box button:hover {
+  background-color: darkblue;
+}
