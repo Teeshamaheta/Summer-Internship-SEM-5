@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+
+  <div class="portfolio-section">
+    <div class="portfolio-container">
+      <img src="https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg" 
+      alt="Profile"
+      class="portfolio-image" />
+
+      <div class="portfolio-text">
+        <h1>ABOUT <span style="font-weight: normal;">ME</span></h1>
+        <h2>(CEO/Founder)</h2>
+        <h2>Developer</h2>
+        <p>
+          Hi, I'm a passionate developer who loves turning ideas into interactive, 
+          user-friendly digital experiences. I enjoy solving problems, building clean
+          interfaces, and learning new technologies every day.
+          Let’s create something awesome!
+
+ <br>
+          <strong>"Build Technology For Everyone"</strong>
+        </p>
+        
+        <div class="download-box">DOWNLOAD RESUME</div>
+        
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
+
+<----- CSS ----->
+
+  body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+}
+
+.portfolio-section {
+  background-color: #4a4a4a;
+  color: white;
+  padding: 80px;
+  width: 50%;
+  border-radius: 20px;
+  margin: 30px auto;
+}
+.portfolio-container {
+  background-color: #2f2f2f;
+  display: flex;
+  align-items: center;
+  width: 800px;
+  padding: 30px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.portfolio-image {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  margin-right: 30px;
+  border-radius: 10px;
+}
+
+.portfolio-text {
+  flex: 1;
+}
+
+.portfolio-text h1 {
+  font-size: 30px;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.portfolio-text h2 {
+  font-size: 20px;
+  font-style: italic;
+  color: #cccccc;
+  margin: 5px 0;
+}
+
+.portfolio-text p {
+  font-size: 15px;
+  color: #dddddd;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+
+.download-box {
+  margin-top: 15px;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #999999;
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  border-radius: 5px;
+}
