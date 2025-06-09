@@ -1,0 +1,244 @@
+<----- MAGGIE RECIPE ----->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Formatting Properties</title>
+  <link rel="stylesheet" href="text.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="recipe">
+    <h3>Masala Maggie Recipe </h3>
+    <img src="https://www.shutterstock.com/image-photo/instant-masala-maggi-noodles-bell-600nw-1823679476.jpg" alt="">
+    <p>
+      Maggie refers to a popular brand of instant noodles, 
+      specifically the "Maggi 2-Minute Noodles" that
+      are widely available in India and other
+      parts of the world. 
+    </p>
+    <h2>What Goes Into This Recipe 🔁 With Helpful Swaps</h2>
+    <ul>
+      <li>Oil (1 Tablespoon)</li>
+      <li>Cumin Seeds (1 Teaspoon)</li>
+      <li>Tomato (Chopped)</li>
+      <li>Onion (Chopped)</li>
+      <li>Peas (1 Cup)</li>
+      <li>Salt ( 1 Pinch)</li>
+    </ul>
+    <a href="pasta.html">Next Recipe</a>
+  </div>
+</body>
+</html>
+
+<----- PASTA RECIPE ----->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Formatting Properties</title>
+  <link rel="stylesheet" href="text.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="recipe">
+    <h3>Pasta Recipe </h3>
+    <img src="https://s.lightorangebean.com/media/20240914160809/Spicy-Penne-Pasta_-done.png" alt="">
+    <p>
+     Masala Pasta is an Indian-Italian fusion dish 
+    that may have originated on the streets of India, selling
+    it as a street food. Not a traditional dish but it has been 
+    a favorite & made in almost every Indian home, especially with kids.
+ </p>
+    <h2>What Goes Into This Recipe 🔁 With Helpful Swaps</h2>
+    <ul>
+      <li>Oil (1 Tablespoon)</li>
+      <li>Cumin Seeds (1 Teaspoon)</li>
+      <li>Tomato (Chopped)</li>
+      <li>Onion (Chopped)</li>
+      <li>Peas (1 Cup)</li>
+      <li>Salt ( 1 Pinch)</li>
+    </ul>
+    <a href="bread.html">Next Recipe</a>
+  </div>
+</body>
+</html>
+
+<----- GARLIC BREAD RECIPES ----->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Formatting Properties</title>
+  <link rel="stylesheet" href="text.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="recipe">
+    <h3>Garlic Bread Recipe </h3>
+    <img src= "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/classic_garlic_bread_84954_16x9.jpg" alt="">
+    <p>
+     This Garlic Bread recipe is made for  making this favorite snack
+     on a frying pan or skillet. It is super-duper easy,
+     requires minimum efforts and will give you all the feels
+     of one eating at a popular pizza joint.
+ </p>
+    <h2>What Goes Into This Recipe 🔁 With Helpful Swaps</h2>
+    <ul>
+      <li>Oil (1 Tablespoon)</li>
+      <li>Cumin Seeds (1 Teaspoon)</li>
+      <li>Tomato (Chopped)</li>
+      <li>Onion (Chopped)</li>
+      <li>Peas (1 Cup)</li>
+      <li>Salt ( 1 Pinch)</li>
+    </ul>
+    <a href="sandwich.html">Next Recipe</a>
+  </div>
+</body>
+</html>
+
+<----- SANDWICH RECIPE ----->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Formatting Properties</title>
+  <link rel="stylesheet" href="text.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="recipe">
+    <h3>Sandwich Recipe </h3>
+    <img src="https://dinedelicious.in/wp-content/uploads/2019/09/Aloo-Sandwich-500x500.jpg" alt="">
+    <p>
+    This veg sandwich is so delicious, sort of healthy & is devoid of sauces,
+    chutney or cheese. Most sandwich recipes call for some or the other sauces,
+    spreads or cheese. I do not stock up on any bottled spreads or sauces as
+    most of these come with loads of creepy ingredients & additives to extend 
+    the shelf life.
+    </p>
+
+    <h2>What Goes Into This Recipe 🔁 With Helpful Swaps</h2>
+    <ul>
+      <li>Oil (1 Tablespoon)</li>
+      <li>Cumin Seeds (1 Teaspoon)</li>
+      <li>Tomato (Chopped)</li>
+      <li>Onion (Chopped)</li>
+      <li>Peas (1 Cup)</li>
+      <li>Salt ( 1 Pinch)</li>
+    </ul>
+    <a href="dosa.html">Next Recipe</a>
+  </div>
+</body>
+</html>
+
+<----- DOSA RECIPES ----->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text Formatting Properties</title>
+  <link rel="stylesheet" href="text.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="recipe">
+    <h3>Dosa Recipe </h3>
+    <img src="https://www.awesomecuisine.com/wp-content/uploads/2009/06/Plain-Dosa.jpg" alt="">
+    <p>
+     Dosa is a traditional and ever popular South Indian breakfast
+     dish made from a fermented rice and urad dal (black gram) batter,
+     spread thin on a hot griddle, creating a golden, savory, crispy
+     crepe typically served with Coconut Chutney and Sambar for a 
+     flavorful and wholesome meal.
+ </p>
+    <h2>What Goes Into This Recipe 🔁 With Helpful Swaps</h2>
+    <ul>
+      <li>Oil (1 Tablespoon)</li>
+      <li>Cumin Seeds (1 Teaspoon)</li>
+      <li>Tomato (Chopped)</li>
+      <li>Onion (Chopped)</li>
+      <li>Peas (1 Cup)</li>
+      <li>Salt ( 1 Pinch)</li>
+    </ul>
+    <a href="maggie.html">Next Recipe</a>
+  </div>
+</body>
+</html>
+
+<----- CSS ----->
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: rgb(230, 224, 173);
+}
+
+.recipe {
+  width: 50%;
+  background-color: white;
+  margin: 20px auto 0px;
+  padding: 30px;
+  box-shadow: 2px 2px 10px black;
+  border-radius: 70px 70px 70px 70px;
+}
+
+.recipe img {
+  display: block;
+  width: 30%;
+  height: 10%;
+  margin: 0 auto;
+  border-radius:45%;
+}
+
+.recipe h3 {
+  color: rgba(133, 22, 0, 0.922);
+  text-align: center;
+  text-decoration: underline black solid 1px;
+  text-transform: capitalize;
+  font-weight: 100;
+  font-size: 30px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
+.recipe p {
+  text-align: justify;
+  text-align-last: center;
+  text-indent: 1rem;
+  font-size: 20px;
+  font-style: italic;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  line-height: 30px;
+  margin: 30px 0px;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 30px;
+}
